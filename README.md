@@ -42,4 +42,4 @@ After an asteroid touches a rocket without a shield, the screen changes to the `
 |<img src="space_photos/hit.png" width="470"/>|<img src="space_photos/game_over.png" width="470"/>|
 
 
-Created by Ryota Torii <rtorii@protonmail.com> on 10/19/21.
+Created by Ryota Torii <rtorii@protonmail.com> on 10/17/21.
