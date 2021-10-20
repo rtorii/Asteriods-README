@@ -9,7 +9,7 @@ In this game,  a user uses arrow keys to move a player (controlled by the user) 
 
 | landing page | settings panel |
 | ------ | ------ |
-|<img src="photos_for_readme/1_landing.png" width="470"/>|<img src="photos_for_readme/2_settings.png" width="470"/>|
+|<img src="space_photos/landing.png" width="470"/>|<img src="space_photos/settings.png" width="470"/>|
 
 **Before the game starts:**
 
@@ -19,7 +19,7 @@ When a user goes to the webpage, the first page shown is the landing page which 
 
 | How to play page | Get Ready splash screen |
 | ------ | ------ |
-|<img src="photos_for_readme/3_how_to_play.png" width="470"/>|<img src="photos_for_readme/4_get_ready.png" width="470"/>|
+|<img src="space_photos/how_to_play.png" width="470"/>|<img src="space_photos/get_ready.png" width="470"/>|
 
 **During the game:**
 During the game, the scoreboard on the top right is updated. 
@@ -29,7 +29,7 @@ A rocket in the game has two states:
 
 | Rocket with no shield | Rocket with a shield |
 | ------ | ------ |
-|<img src="photos_for_readme/game_tiger_tag.png" width="470"/>|<img src="photos_for_readme/game_levelup_tag.png" width="470"/>|
+|<img src="space_photos/shield_appear.png" width="470"/>|<img src="space_photos/shield_portal.png" width="470"/>|
 
 Besides the shield, portals spawn at a random location every 20-second interval (and stays for 5 seconds before disappearing). If a rocket collects a portal, the level increases (speed of the comets increases). Therefore, the rocket may want to collect it if they want to increase the game's difficulty. Otherwise, they may want to avoid it. The portals stop appearing after the speed of the asteroids reaches ten times faster than the initial speed of them in the `Easy` version.
 
@@ -39,7 +39,7 @@ After an asteroid touches a rocket without a shield, the screen changes to the `
 
 | smiley face touched by a comet | Game Over page |
 | ------ | ------ |
-|<img src="photos_for_readme/7_game_over.png" width="470"/>|<img src="photos_for_readme/8_game_over_page.png" width="470"/>|
+|<img src="space_photos/hit.png" width="470"/>|<img src="space_photos/game_over.png" width="470"/>|
 
 
 Created by Ryota Torii <rtorii@protonmail.com> on 10/19/21.
