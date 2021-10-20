@@ -1,5 +1,5 @@
 # Asteriods (Web Application Game)
-
+_**Note:** This game has a similar structure with the [Stuffed Animal Comets](https://github.com/rtorii/Asteriods) version, but this version is intended to be easier._
 **Description:**
 
 In this game,  a user uses arrow keys to move a player (controlled by the user) within the game window to prevent the rocket from getting hit by asteriods. The asteroids spawn randomly from different directions (top, bottom, right, and left). The game window has a fixed size (not resizable). I implemented the application using HTML, CSS, and JavaScript. I also used jQuery, which is an external JavaScript library.
