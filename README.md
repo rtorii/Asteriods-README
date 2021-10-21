@@ -25,7 +25,7 @@ When a user goes to the webpage, the first page shown is the landing page which 
 During the game, the scoreboard on the top right is updated. 
 A rocket in the game has two states:
 1. Rocket with no shield: Initial state. If a rocket gets hit by an asteroid in this state, the game is over.
-2. Rocket with a shield: A rocket can collect a shield spawned at random locations every 15 seconds (and stays for 5 seconds before disappearing). When a rocket with a shield gets hit by an asteroid in this state, the rocket loses the shield.
+2. Rocket with a shield: A rocket can collect a shield spawned at random locations every 15 seconds (and stays for 5 seconds before disappearing). When a rocket with a shield gets hit by an asteroid in this state, the rocket loses the shield. Nothing happens when the rocket who already has a shield collects another shield.
 
 | Rocket with no shield | Rocket with a shield |
 | ------ | ------ |
