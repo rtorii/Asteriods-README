@@ -7,7 +7,7 @@ _**Note:** This game has a similar structure with the [Stuffed Animal Comets](ht
 In this game,  a user uses arrow keys to move a player (controlled by the user) within the game window to prevent the rocket from getting hit by asteroids. The asteroids spawn randomly from different directions (top, bottom, right, and left). The game window has a fixed size (not resizable). I implemented the application using HTML, CSS, and JavaScript. I also used jQuery, which is an external JavaScript library.
 
 
-| landing page | settings panel |
+| Landing page | Settings panel |
 | ------ | ------ |
 |<img src="space_photos/landing.png" width="470"/>|<img src="space_photos/settings.png" width="470"/>|
 
@@ -37,7 +37,7 @@ Besides the shield, portals spawn at a random location every 20-second interval 
 
 After an asteroid touches a rocket without a shield, the screen changes to the `Game Over` page which displays the score. There is a 'Start Over' button which directs the user back to the landing page where they can do the game again.
 
-| smiley face touched by a comet | Game Over page |
+| Rocket with no shield | Game Over page |
 | ------ | ------ |
 |<img src="space_photos/hit.png" width="470"/>|<img src="space_photos/game_over.png" width="470"/>|
 
