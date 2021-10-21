@@ -27,7 +27,7 @@ A rocket in the game has two states:
 1. Rocket with no shield: Initial state. If a rocket gets hit by an asteroid in this state, the game is over.
 2. Rocket with a shield: A rocket can collect a shield spawned at random locations every 15 seconds (and stays for 5 seconds before disappearing). When a rocket with a shield gets hit by an asteroid in this state, the rocket loses the shield. Nothing happens when the rocket who already has a shield collects another shield.
 
-| Rocket with no shield | Rocket with a shield |
+| rocket with no shield | rocket with a shield |
 | ------ | ------ |
 |<img src="space_photos/shield_appear.png" width="470"/>|<img src="space_photos/shield_portal.png" width="470"/>|
 
@@ -37,7 +37,7 @@ Besides the shield, portals spawn at a random location every 20-second interval 
 
 After an asteroid touches a rocket without a shield, the screen changes to the `Game Over` page which displays the score. There is a 'Start Over' button which directs the user back to the landing page where they can do the game again.
 
-| Rocket with no shield | Game Over page |
+| rocket with no shield | Game Over page |
 | ------ | ------ |
 |<img src="space_photos/hit.png" width="470"/>|<img src="space_photos/game_over.png" width="470"/>|
 
