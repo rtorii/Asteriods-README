@@ -1,4 +1,4 @@
-# Asteriods (Web Application Game)
+# Asteriods (Web Game)
 
 _**Note:** This game has a similar structure with the [Stuffed Animal Comets](https://github.com/rtorii/Stuffed-Animal-Comets-README/blob/main/README.md) version, but this version is intended to be harder._
 
