@@ -41,7 +41,7 @@ Besides the shield, portals spawn at a random location every 20-second interval 
 
 After an asteroid touches a rocket without a shield, the screen changes to the `Game Over` page which displays the score. There is a 'Start Over' button which directs the user back to the landing page where they can do the game again.
 
-| rocket with no shield | Game Over page |
+| rocket hit by an asteroid | Game Over page |
 | ------ | ------ |
 |<img src="space_photos/hit.png" width="470"/>|<img src="space_photos/game_over.png" width="470"/>|
 
