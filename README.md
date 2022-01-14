@@ -8,7 +8,7 @@ _**Note:** This game has a similar structure with the [Stuffed Animal Comets](ht
 
 **Description:**
 
-In this game,  a user uses arrow keys to move a player (controlled by the user) within the game window to prevent the rocket from getting hit by asteroids. The asteroids spawn randomly from different directions (top, bottom, right, and left). The game window has a fixed size (not resizable). I implemented the application using HTML, CSS, and JavaScript. I also used jQuery, which is an external JavaScript library.
+In this game,  a user uses arrow keys to move a rocket (controlled by the user) within the game window to prevent it from getting hit by asteroids. The asteroids spawn randomly from different directions (top, bottom, right, and left). The game window has a fixed size (not resizable). I implemented the application using HTML, CSS, and JavaScript. I also used jQuery, which is an external JavaScript library.
 
 
 | Landing page | Settings panel |
@@ -19,7 +19,7 @@ In this game,  a user uses arrow keys to move a player (controlled by the user) 
 
 When a user goes to the webpage, the first page shown is the landing page which contains two buttons (`Settings` and `Play game!`). 
 - When the user presses the `Settings` button, the settings panel pops up. This is where the user can set the volume and difficulty of the game. There are `Easy`, `Normal`, and `Hard` versions.
-- When the user presses the `Play game!` for the first time, the `How to play` page shows up. If the user presses the `Start` button on the `How to play` page, the user is directed to the `Get Ready` splash screen. If the play hits `Start Over` button from the game over page and decides to play the game again, `How to play` page does not show up. After the splash screen appears for three seconds, it automatically disappears and the game starts.
+- When the user presses the `Play game!` for the first time, the `How to play` page shows up. If the user presses the `Start` button on the `How to play` page, the user is directed to the `Get Ready` splash screen. If the user hits `Start Over` button from the game over page and decides to play the game again, `How to play` page does not show up. After the splash screen appears for three seconds, it automatically disappears and the game starts.
 
 | How to play page | Get Ready splash screen |
 | ------ | ------ |
