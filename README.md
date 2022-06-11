@@ -1,9 +1,5 @@
 # Asteroids (HTML, CSS, JavaScript)
 
-_**Note:** This game has a similar structure with the [Stuffed Animal Comets](https://github.com/rtorii/Stuffed-Animal-Comets-README/blob/main/README.md) version, but the asteroids version is intended to be harder._
-
-[Stuffed Animal Comets game demo video with explanation](https://www.youtube.com/watch?v=6VU4sFwtbd8)
-
 [Asteroids game demo video](https://www.youtube.com/watch?v=Znd7PBQw9Hs)
 
 **Description:**
