@@ -1,5 +1,7 @@
 # Asteroids (HTML, CSS, JavaScript)
 
+日本語の説明：https://github.com/rtorii/Asteroids-README/blob/main/README_2.md
+
 [Asteroids game demo video](https://www.youtube.com/watch?v=Znd7PBQw9Hs)
 
 **Description:**
